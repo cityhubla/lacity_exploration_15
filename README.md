@@ -1,4 +1,5 @@
 # lacity_exploration_15
+# Mapping At-Risk/Expiring Affordable Housing in LACITY
 
 This project explores the At-Risk/ Expiring Affordable Housing Inventory in the City of Los Angeles. The inventory was prepared
 for the [Housing Element to the General Plan](https://planning.lacity.org/HousingInitiatives/HousingElement/TOCHousingElement.htm).
