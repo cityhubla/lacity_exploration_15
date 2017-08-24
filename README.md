@@ -18,3 +18,5 @@ The description for this inventory and the contents are as follows:
 
 A PDF has been made for this inventory and this repo contains a CSV of locations scapped from this document for geocoding.
 A Shapefile was made locating housing from 2017-2021 and is in this repo.
+
+Exploration approaches to follow and will be added to this readme.
