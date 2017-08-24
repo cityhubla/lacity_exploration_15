@@ -13,4 +13,7 @@ The description for this inventory and the contents are as follows:
 > rental covenant, rental subsidy or funding; it is the source with the most years
 > of affordability and set-aside units. Appendix B provides a summary of the
 > at-risk/expiring properties. Appendix C provides a detailed inventory of the
-> at-risk/expiring properties during this Housing Element Update period.
+> at-risk/expiring properties during this Housing Element Update period. - Chapter 1, item 7 of the Housing Element
+
+A PDF has been made for this inventory and this repo contains a CSV of locations scapped from this document for geocoding.
+A Shapefile was made locating housing from 2017-2021 and is in this repo.
